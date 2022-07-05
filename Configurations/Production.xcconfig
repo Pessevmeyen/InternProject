@@ -1,0 +1,4 @@
+BACKEND_URL = https:\/\/mobven.com\/
+BUNDLE_ID = com.furkanerucar.internProject
+APP_NAME = InternProject
+SHOW_VERSION = NO

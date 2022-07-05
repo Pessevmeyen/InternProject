@@ -1,0 +1,4 @@
+BACKEND_URL = https:\/\/mobven.com\/dev //Kodun içinden buraya ve Production'a erişmek için backend_url diye bir alan yaptık.
+BUNDLE_ID = com.furkanerucar.internProject.dev
+APP_NAME = Interdev
+SHOW_VERSION = YES
